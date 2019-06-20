@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/css
+Disallow: /cgi-bin/js
+Sitemap: http://www.fumipgreen.com/
